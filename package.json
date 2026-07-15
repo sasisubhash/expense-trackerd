@@ -50,7 +50,7 @@
     "jspdf-autotable": "latest",
     "localforage": "latest",
     "lucide-react": "^0.454.0",
-    "next": "15.2.4",
+    "next": "^16.2.10",
     "next-themes": "^0.4.6",
     "papaparse": "latest",
     "react": "^19",
